@@ -1,4 +1,4 @@
-                                                                                                        **Virtual Assistant for pc**
+**Virtual Assistant for pc**
 
 Features
   Voice Recognition: Utilizes the speech_recognition library to recognize voice commands.
