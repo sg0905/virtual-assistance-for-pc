@@ -1,19 +1,19 @@
 **Virtual Assistant for pc**
 
-Features
+**Features**
   Voice Recognition: Utilizes the speech_recognition library to recognize voice commands.
   Text-to-Speech: Uses the pyttsx3 library to convert text responses into speech.
   Web Browsing: Opens web browsers to navigate to specified websites like YouTube and Google.
   System Commands: Executes various system commands such as opening applications, checking the time and date, and shutting down or restarting the computer.
   Joke Telling: Can entertain the user by telling jokes.
 
-Installation
+**Installation**
   To run the script, you'll need Python installed on your system along with the following libraries:
   
   speech_recognition
   pyttsx3
 
-Commands
+**Commands**
   Open YouTube: Opens YouTube in your default web browser.
   Open Google: Opens Google in your default web browser.
   What time is it: Tells you the current time.
